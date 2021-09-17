@@ -36,8 +36,13 @@ The Colorado Board of Elections requested some additional data in regard to the 
 ## Challenge Summary
 The analysis of the election results show that:
 - A total of 369,711 votes were case in the election
+  -  ![Total_votes](https://user-images.githubusercontent.com/88444529/133843404-aeae865a-cb1e-44b1-a427-3aad658f2a6d.PNG)
   - Jefferson county contributed 10.5% of the vote and 38,855 number of votes.
   - Denver county contributed 82.8% of the vote and 306,055 number of votes.
   - Araphoe county contributed 6.7% of the vote and 24,801 number of votes.
+    - ![Candidate_County_Options](https://user-images.githubusercontent.com/88444529/133844171-d864e24c-34c6-44a3-89be-7b1721521e28.PNG)
+    - ![County_Calculations](https://user-images.githubusercontent.com/88444529/133844200-ea56f193-4b86-45c2-ba55-2caab3982864.PNG)
+    - ![County_Vote_Count](https://user-images.githubusercontent.com/88444529/133844214-d3c1485b-6023-46be-861d-20c3a5fc7cd7.PNG)
+    - ![Retrieving_County_Name](https://user-images.githubusercontent.com/88444529/133844229-3edac714-9933-4ab7-80d5-6ab6ca7f779b.PNG)
 - The county with the largest number of votes:
   - Denver county, who contributed 82.8% of the vote and 306,055 number of votes.
