@@ -11,7 +11,7 @@ A Colorado Borad of Elections employee has given you the following tasks to comp
 
 ## Resources
 - Data Source: election_results.csv
-- - Software: Python 3.6.1, Visual Studio Code, 1.38.1
+- Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Summary
 The analysis of the election show that:
@@ -28,5 +28,16 @@ The analysis of the election show that:
   - Diana Degette, who received 73.8% of the vote and 272,892 votes.
 
 ## Challenge Overview
+The Colorado Board of Elections requested some additional data in regard to the election audit done previously for information on voter turnout in participating counties.
 
+1.  The voter turnout for each county
+2.  The percentage of votes from each county out of the total count
+3.  The county with the highest turnout
 ## Challenge Summary
+The analysis of the election results show that:
+- A total of 369,711 votes were case in the election
+  - Jefferson county contributed 10.5% of the vote and 38,855 number of votes.
+  - Denver county contributed 82.8% of the vote and 306,055 number of votes.
+  - Araphoe county contributed 6.7% of the vote and 24,801 number of votes.
+- The county with the largest number of votes:
+  - Denver county, who contributed 82.8% of the vote and 306,055 number of votes.
