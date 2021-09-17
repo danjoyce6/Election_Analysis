@@ -48,3 +48,4 @@ The analysis of the election results show that:
 - The county with the largest number of votes:
   - Denver county, who contributed 82.8% of the vote and 306,055 number of votes.
 ## Election-Audit Summary
+The code that has been used to complete the analysis of this election can be used in subsequent elections with only slight modification necessary.  Depending on the data that is being gathered, a dictionary can be created that holds values and can be iterated through to get the relevant data like votes per county or votes per candidate.  This could be done to further analyze election data with other variables if available in the dataset.  It could be broken down further into geographical area of votes per zipcode.  This is a dynamic script and it could be in your best interest to adopt this script for all future elections.
