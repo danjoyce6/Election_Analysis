@@ -33,7 +33,8 @@ The Colorado Board of Elections requested some additional data in regard to the 
 1.  The voter turnout for each county
 2.  The percentage of votes from each county out of the total count
 3.  The county with the highest turnout
-## Challenge Summary
+
+## Election-Audit Results
 The analysis of the election results show that:
 - A total of 369,711 votes were case in the election
   -  ![Total_votes](https://user-images.githubusercontent.com/88444529/133843404-aeae865a-cb1e-44b1-a427-3aad658f2a6d.PNG)
@@ -46,3 +47,4 @@ The analysis of the election results show that:
     - ![County_Calculations](https://user-images.githubusercontent.com/88444529/133844200-ea56f193-4b86-45c2-ba55-2caab3982864.PNG)
 - The county with the largest number of votes:
   - Denver county, who contributed 82.8% of the vote and 306,055 number of votes.
+## Election-Audit Summary
